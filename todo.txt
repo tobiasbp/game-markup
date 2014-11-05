@@ -1,0 +1,5 @@
+A list of things to be done...
+
+# Document usage so others can test
+# Fix known bugs for extracting event for Donkey Kong.
+# Write software for analysis of log files. Needs to allow for analysis if different games.
