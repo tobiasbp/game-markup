@@ -1,0 +1,62 @@
+<game lives=3, bonus-life-at=7000>
+<stage level=1, screen=1, score=0>
+<score>900</score>
+<cleared bonus=3400, x=157, y=139>no</cleared>
+</stage>
+<stage level=1, screen=1, score=900>
+<score>2A00</score>
+<cleared bonus=3400, x=217, y=098>no</cleared>
+</stage>
+<stage level=1, screen=1, score=3300>
+<score>6100</score>
+<cleared bonus=3200, x=147, y=048>yes</cleared>
+</stage>
+<stage level=1, screen=4, score=9400>
+<item x=074, y=200>rivet</item>
+<item x=076, y=120>rivet</item>
+<item x=074, y=080>rivet</item>
+<item x=076, y=160>rivet</item>
+<item x=180, y=160>rivet</item>
+<item x=178, y=200>rivet</item>
+<item x=180, y=080>rivet</item>
+<score>A300</score>
+<cleared bonus=1400, x=177, y=115>no</cleared>
+</stage>
+<stage level=1, screen=4, score=13700>
+<item x=074, y=200>rivet</item>
+<item x=076, y=120>rivet</item>
+<item x=074, y=080>rivet</item>
+<item x=076, y=160>rivet</item>
+<item x=180, y=160>rivet</item>
+<item x=178, y=200>rivet</item>
+<item x=180, y=120>rivet</item>
+<item x=178, y=080>rivet</item>
+<score>6100</score>
+<cleared bonus=2200, x=178, y=080>yes</cleared>
+</stage>
+<stage level=2, screen=1, score=19800>
+<score>C200</score>
+<cleared bonus=3600, x=147, y=048>yes</cleared>
+</stage>
+<stage level=2, screen=3, score=26000>
+<score>4D00</score>
+<cleared bonus=4800, x=147, y=048>yes</cleared>
+</stage>
+<stage level=2, screen=4, score=31300>
+<item x=074, y=200>rivet</item>
+<item x=076, y=120>rivet</item>
+<item x=074, y=080>rivet</item>
+<item x=076, y=160>rivet</item>
+<item x=180, y=160>rivet</item>
+<item x=178, y=200>rivet</item>
+<item x=178, y=120>rivet</item>
+<item x=178, y=080>rivet</item>
+<score>6300</score>
+<cleared bonus=3200, x=178, y=080>yes</cleared>
+</stage>
+<stage level=3, screen=1, score=37600>
+<score>B00</score>
+<cleared bonus=5700, x=039, y=109>no</cleared>
+</stage>
+<score>38100</score>
+</game>
